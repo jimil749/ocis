@@ -39,7 +39,7 @@ Let's explore the various flows with examples and workflows.
 
 Let's explore with examples this approach.
 
-#### Expected loading locations
+#### Default loading locations
 
 - docker images: `/etc/ocis/`
 - binary releases: `$HOME/.ocis/config/`
